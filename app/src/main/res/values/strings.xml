@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shoppinglist</string>
+    <string name="CreateNewShoppingList">Create Shoppinglist</string>
+    <string name="SavedShoppingLists">Saved Shoppinglists</string>
+
+    <string name="EnterItem">Enter item (Add)</string>
+    <string name="AddToList">Add</string>
+    <string name="UpdateToList">Update</string>
+    <string name="SavedLists">Saved Shoppinglists</string>
+    <string name="ListName">List name</string>
+    <string name="WhatToDo">What to do?</string>
+    <string name="SaveAsList">Save list</string>
+    <string name="UpdateList">Update list</string>
+    <string name="ButtonUpdate">Update</string>
+    <string name="LastSavedList">Last saved list</string>
+    <string name="DeleteAllLists">Delete old lists</string>
+
+</resources>
